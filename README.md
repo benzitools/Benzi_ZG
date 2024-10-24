@@ -1,5 +1,5 @@
 
-# ⚙️ ROOT - HIDE ROOT - ANDROID  
+# ⚙️ Module for Magisk - Support hide root
 ## 📤 V2.0
 
 ---
