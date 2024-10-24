@@ -38,7 +38,7 @@ This project is **open-source** and distributed under the MIT License. You are f
 ---
 
 ## 📞 **Support**:
-For any questions, feel free to contact us via [Telegram: @root_hide_support](https://t.me/root_hide_support).
+For any questions, feel free to contact us via [Telegram: @Benzitools_support](https://t.me/Benzitools_support).
 
 ---
 
